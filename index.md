@@ -1,4 +1,4 @@
-my name is Eric Howyn and I am a student at Cal State Fullerton and my major is Business. 
+My name is Eric Howyn and I am a student at Cal State Fullerton and my major is Business. 
 
 ## Computer Science Projects 
 
